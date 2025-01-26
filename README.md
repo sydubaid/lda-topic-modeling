@@ -25,7 +25,7 @@ Before running the script, make sure you have Python installed (preferably Pytho
 
 ### Clone the repository:
 ```bash
-git clone https://github.com/your-username/repository-name.git
+git clone https://github.com/sydubaid/lda-topic-modeling.git
 cd repository-name
 ```
 
